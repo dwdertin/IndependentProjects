@@ -1,0 +1,13 @@
+User Stories:
+
+The user needs to be able to display orders placed on a specific date by entering that date.
+
+The user needs to be able to create a new order.
+
+The user needs to be able to edit an order by specifying a date and order number.
+
+The user needs to be able to remove an order by specifiying a date and order number.
+
+The user needs to be able to save their current work in the program without exiting the program.
+
+The user needs to be able to select an option to quit the program. 
