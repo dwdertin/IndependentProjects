@@ -1,0 +1,53 @@
+
+#dynamicNav {
+    width: 100%;
+    position:static;
+    /*  top:-32px;*/
+    background:rgba(242, 255, 204,0.95);
+}        
+#dynamicNav.affix {
+    position: fixed;
+    top: 0;
+    z-index:10;
+    -webkit-transition: all .6s ease-in-out;
+}
+  
+body {
+    overflow-x: hidden;
+    word-wrap: break-word;
+    background: url("../img/whiteoutgoldgrain.jpg") no-repeat center center fixed; 
+    background-size: cover;
+    font-family: 'Alegreya', serif;
+    font-size: 1.66em;
+}
+#sidebar-wrapper {
+  height: 100%;
+  padding-right: 0;
+  padding-top: 2px;
+}
+
+h3 {
+    font-family: 'Righteous', cursive;
+}
+
+h1,h4 {
+    font-family: 'Righteous', cursive;
+}
+
+.well{
+    background: rgba(203, 238, 255, 0.3) !important;
+}
+
+.sticky {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 100;
+    border-top: 0;
+    background:rgba(242, 255, 204,0.95);
+}
+
+a {
+    cursor: pointer;
+}
