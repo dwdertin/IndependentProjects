@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Increment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="enter_task_name_text_view">Enter the name of your task:</string>
+    <string name="enter_idea_name_text_view">Enter the name of your idea:</string>
+    <string name="enter_idea_button">Enter</string>
+    <string name="get_new_idea_name_text_view">Go get a new idea name:</string>
+    <string name="new_idea_name_text_view">Your Ideas: </string>
+    <string name="enter_a_new_task_text_view">Create A New Task</string>
+    <string name="new_task_name_text_view">Your Tasks: </string>
+</resources>
